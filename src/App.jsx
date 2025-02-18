@@ -1,12 +1,13 @@
 import './App.css'
-import Signup from './pages/Signup'
+import { LandingPage } from './pages/LandingPage'
+// import Signup from './pages/Signup'
 
 function App() {
 
 
   return (
     <>
-      <Signup/>
+      <LandingPage/>
     </>
   )
 }
